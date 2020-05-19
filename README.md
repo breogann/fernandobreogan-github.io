@@ -1,6 +1,6 @@
 # Welcome! 🙋🏻‍♂️
 
-This is my personal website. It serves as a cv/portfolio. You can check it out at www.breogann.com
+This is my personal website. It serves as a cv/portfolio. You can check it out at https://breogann.com
 
 _It's still being built (not a web developer)._
 
