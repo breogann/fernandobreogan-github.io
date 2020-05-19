@@ -315,9 +315,9 @@ button.navbar-toggle.collapsed {
 }
 
 .brand-heading {
-    font-size: 100px;
+    font-size: 80px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+    font-weight: 550;
     text-align: left;
     color: #40E0D0;
 }
