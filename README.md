@@ -10,7 +10,10 @@ Thanks to @shvvffle for making her code public!
 ## To-do:
 
 ### functionality
-* nav bar
+* nav bar:
+    shrink after click
+    making sure it matches the sections
+
 
 ### logo
 * design a favicon & make sure it's a higher quality
