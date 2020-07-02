@@ -20,7 +20,6 @@ Thanks to @shvvffle for making her code public!
 * same with the logo
 
 ### whoami
-* social-buttons
 * change whoami picture
 * change whoami colors
 
